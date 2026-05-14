@@ -70,7 +70,8 @@ Other Tables (Carriers, Customers, Products):
 
 <img width="1166" height="687" alt="image" src="https://github.com/user-attachments/assets/c88ba01c-8601-4f5c-afd2-d9e54394b4bc" />
 
-<img width="1166" height="687" alt="image" src="https://github.com/user-attachments/assets/b78492b7-65d2-4afb-9925-8d4cc0209b72" />
+<img width="1162" height="715" alt="image" src="https://github.com/user-attachments/assets/e46505aa-b699-47d7-b394-08c70af2ea56" />
+
 
 
 
