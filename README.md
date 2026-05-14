@@ -55,3 +55,23 @@ Other Tables (Carriers, Customers, Products):
 5. Analyzed the Data (Pivot Tables)
 - Built separate pivot tables for each business question.
 - Used multiple filters on the same field (Label Filter to exclude unknowns + Value Filter to get Top 10) to rank the best carriers by profit.
+
+## Key Insights
+- Shipment volume increased steadily starting from November, suggesting growing demand or successful marketing.
+- Shipments are spread very evenly across cities, with Tanta leading both as the top sender and top receiver.
+- Aswan has the highest average shipping cost (434), about 15% above the company average (376), followed by Luxor (403). This is likely due to distance from main distribution hubs.
+- Tie Delivery is the most profitable carrier (1,048,240), but the top 10 carriers are very close in profit, showing strong competition.
+- FMCG (fast-moving consumer goods) leads both in shipment volume (30% of all orders) and in profit (56.5M), making it the most important product category.
+
+## Dashboard
+<img width="1196" height="720" alt="image" src="https://github.com/user-attachments/assets/3a5703d0-b7f1-44ab-a57c-7b0a3b455791" />
+
+<img width="1142" height="688" alt="image" src="https://github.com/user-attachments/assets/33ac633b-a3e6-4fdf-acd9-0eddd818ec60" />
+
+<img width="1166" height="687" alt="image" src="https://github.com/user-attachments/assets/c88ba01c-8601-4f5c-afd2-d9e54394b4bc" />
+
+<img width="1166" height="687" alt="image" src="https://github.com/user-attachments/assets/b78492b7-65d2-4afb-9925-8d4cc0209b72" />
+
+
+
+
